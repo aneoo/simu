@@ -1,0 +1,68 @@
+html,body,p,h1,h2,h3,h4,h5,h6,ul,li,ol,dl,dd,dt,table,tr,td,hr,input{
+	margin: 0;
+	padding: 0;
+}
+
+html,body{
+	height: 100%;
+}
+
+body{
+	font-size: 14px;
+	color: #333;
+	font-family: arial,verdana,"Microsoft YaHei","微软雅黑","宋体","黑体",sans-serif;
+}
+
+a{
+	text-decoration: none;
+	color: #333;
+}
+
+h1,h2,h3,h4,h5,h6{
+	font-weight: normal;
+	font-size: 14px;
+}
+
+i,em{
+	font-style: normal;
+}
+
+ul li{
+   list-style: none;
+}
+
+img{
+	display: block;
+	border:none;
+}
+
+.w1200{
+	width: 1200px;
+	margin:0 auto;
+}
+
+
+.clearfix:after{
+	content: " ";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	height: 0;
+}
+
+.fl{
+	float: left;
+}
+
+.fr{
+	float: right;
+}
+
+
+
+
+
+
+
+
+
